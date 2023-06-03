@@ -16,4 +16,4 @@ JavaScript: Utilizado para adicionar interatividade e funcionalidades ao site.
 
 ## Deploy
 
-https://www.dev-valmariolopes.netlify.app
+https://dev-valmariolopes.netlify.app
