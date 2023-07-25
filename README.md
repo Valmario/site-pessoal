@@ -13,3 +13,7 @@ O site foi desenvolvido utilizando as seguintes tecnologias:
 HTML: Utilizado para estruturar o conteúdo e os elementos do site.
 CSS: Utilizado para estilizar o layout e a aparência do site.
 JavaScript: Utilizado para adicionar interatividade e funcionalidades ao site.
+
+## Deploy
+
+https://dev-valmariolopes.netlify.app
